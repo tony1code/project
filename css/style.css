@@ -64,6 +64,28 @@ a {
   color: white;
 }
 
+.fff:hover{
+  background: #2d2640;
+  color: white;
+  border: 1px solid white;
+  padding: 10px 25px;
+  display: inline-block;
+}
+.ggg:hover{
+  background: #2d2640;
+  color: white;
+  border: 1px solid white;
+  padding: 10px 25px;
+  display: inline-block;
+}
+.hhh:hover{
+  background: #2d2640;
+  color: white;
+  border: 1px solid white;
+  padding: 10px 25px;
+  display: inline-block
+}
+
 /* Hero Section */
 .hero {
   background-color: #2d2640;
